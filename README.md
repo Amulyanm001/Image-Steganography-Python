@@ -39,5 +39,8 @@ Decryption:
 2. Enter passcode
 3. Message will be revealed
 
+### Output
+![Output](screenshots/output.png)
+
 ## Author
 Amulya N M
